@@ -9,7 +9,7 @@ def main():
                 break
         if b == num:
               print("!!!not possible, enter another number!!!\n")
-              quit
+              exit
         else:
           print(f"{num} = 2^{b}\n")
 
