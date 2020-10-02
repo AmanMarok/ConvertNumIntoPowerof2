@@ -16,3 +16,6 @@ def main():
 		else:
         print("!! Only Even number is accepted !!\n")
         exit
+	
+while True or False:
+    main()
